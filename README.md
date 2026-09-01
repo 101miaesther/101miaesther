@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm a Software Engineering student <br>Looking to collaborate on a Real -time collaboration <br>or any web-dev projects<br>Currently learning Java, React/React js<br>Fun fact: I love reading novels and I do muay thai :)<br>
+Hey there! I'm a Software Engineering student <br>Looking to collaborate <br>Currently learning Java, React/React js<br>Fun fact: I love reading novels and I do muay thai :)<br>
 
 
 ## 🌐 Socials:

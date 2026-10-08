@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm a Software Engineering student <br>Looking to collaborate(fullstack dev) <br>Currently learning Vue and Go lang!<br>Fun fact: I love reading novels and I do muay thai :)<br>
+Hey there! I'm a Software Engineering student<br>Currently learning Vue and Go lang!<br>Fun fact: I love reading novels and I do muay thai :)<br>
 
 
 ## 🌐 Socials:
